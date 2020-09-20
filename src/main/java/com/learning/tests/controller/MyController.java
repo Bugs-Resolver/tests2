@@ -11,7 +11,6 @@ public class MyController {
         System.out.println("working");
         System.out.println("update1");
         System.out.println("update2");
-        System.out.println("hello");
         return "success";
     }
 }
